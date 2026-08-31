@@ -2,6 +2,10 @@
 
 CryptoPlace is a responsive cryptocurrency tracking web application built with React.js. It uses the CoinGecko API to fetch and display real-time cryptocurrency market data.
 
+## 🌐 Live Demo
+
+👉 https://cryptoplace-mocha-delta.vercel.app
+
 ## 🌐 Features
 
 - 📊 View cryptocurrency market data
@@ -24,6 +28,7 @@ CryptoPlace is a responsive cryptocurrency tracking web application built with R
 - React Google Charts
 - CoinGecko API
 - Git & GitHub
+- Vercel
 
 ## 📂 Project Structure
 
