@@ -21,6 +21,7 @@ CryptoPlace is a responsive cryptocurrency tracking web application built with R
 - CSS3
 - Vite
 - React Router
+- React Google Charts
 - CoinGecko API
 - Git & GitHub
 
